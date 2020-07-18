@@ -1,0 +1,27 @@
+header {
+  background-color: grey;
+  display: grid;
+  grid-template-columns: 80% 20%;
+  height: 100px;
+  color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightBlue;
+}
+
+.header-left-content {
+  display: flex;
+  justify-content: space-around;
+  width: 25%;
+  align-items: flex-end
+}
+
+.header-right-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  width: 75%;
+}
