@@ -60,3 +60,31 @@ body {
   background: url('images/Thailand-image.jpg') no-repeat center;
   background-size: cover;
 }
+#card-2 .card-upper-image {
+  background: url('images/Dubrovnik-image.jpeg') no-repeat center;
+  background-size: cover;
+}
+#card-3 .card-upper-image {
+  background: url('images/Lakedistrict-image.jpeg') no-repeat center;
+  background-size: cover;
+}
+#card-4 .card-upper-image {
+  background: url('images/Ubud-image.jpeg') no-repeat center;
+  background-size: cover;
+}
+#card-5 .card-upper-image {
+  background: url('images/Lisbon-image.jpeg') no-repeat center;
+  background-size: cover;
+}
+#card-6 .card-upper-image {
+  background: url('images/Tulum-image.jpeg') no-repeat center;
+  background-size: cover;
+}
+#card-7 .card-upper-image {
+  background: url('images/Chengdupanda-image.jpeg') no-repeat center;
+  background-size: cover;
+}
+#card-8 .card-upper-image {
+  background: url('images/Paris-image.jpeg') no-repeat center;
+  background-size: cover;
+}
