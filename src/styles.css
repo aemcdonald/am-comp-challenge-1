@@ -29,21 +29,20 @@ body {
   align-items: flex-end;
   width: 75%;
 }
+
 .cards-area {
   border: dotted;
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
+  justify-content: space-around;
   width: 100%;
 }
-.card-1 {
-  border: solid;
-  display: grid;
-  max-width: 100%;
+
+.card {
+  margin: 10px;
 }
 
 .card-upper-image {
-  /* background: url('images/Thailand-image.jpg') no-repeat center;
-  background-size: cover; */
   width: 100%;
   height: 15em;
   padding: 1em;
@@ -51,39 +50,48 @@ body {
   flex-direction: column;
   justify-content: flex-start;
 }
+
 .heart-icon {
   display: flex;
   height: auto;
-  width: 10%;
+  width: 8%;
 }
+
 #card-1 .card-upper-image {
   background: url('images/Thailand-image.jpg') no-repeat center;
   background-size: cover;
 }
+
 #card-2 .card-upper-image {
   background: url('images/Dubrovnik-image.jpeg') no-repeat center;
   background-size: cover;
 }
+
 #card-3 .card-upper-image {
   background: url('images/Lakedistrict-image.jpeg') no-repeat center;
   background-size: cover;
 }
+
 #card-4 .card-upper-image {
   background: url('images/Ubud-image.jpeg') no-repeat center;
   background-size: cover;
 }
+
 #card-5 .card-upper-image {
   background: url('images/Lisbon-image.jpeg') no-repeat center;
   background-size: cover;
 }
+
 #card-6 .card-upper-image {
   background: url('images/Tulum-image.jpeg') no-repeat center;
   background-size: cover;
 }
+
 #card-7 .card-upper-image {
   background: url('images/Chengdupanda-image.jpeg') no-repeat center;
   background-size: cover;
 }
+
 #card-8 .card-upper-image {
   background: url('images/Paris-image.jpeg') no-repeat center;
   background-size: cover;
