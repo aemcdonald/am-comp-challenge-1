@@ -25,3 +25,8 @@ body {
   align-items: flex-end;
   width: 75%;
 }
+.cards-area {
+  border: dotted;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
