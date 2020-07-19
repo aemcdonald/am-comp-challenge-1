@@ -35,26 +35,19 @@ body {
 .title {
   font-family: 'Lato', sans-serif;
   margin-left: 10px;
+  margin-bottom: 5px;
   }
 
 .cards-area {
-  font-family: 'Lato', sans-serif;
-}
-
-.cards-area {
-  border: dotted;
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
   justify-content: space-around;
   width: 100%;
+  font-family: 'Lato', sans-serif;
 }
 
 .card {
   margin: 10px;
-}
-
-.card-title {
-  display: flex;
 }
 
 .card-upper-image {
