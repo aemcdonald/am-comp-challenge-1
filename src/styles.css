@@ -8,6 +8,8 @@ header {
   grid-template-columns: 95% 5%;
   height: 100px;
   color: white;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
 }
 
 body {
@@ -30,6 +32,14 @@ body {
   width: 95%;
 }
 
+.title {
+  font-family: 'Lato', sans-serif;
+}
+
+.cards-area {
+  font-family: 'Lato', sans-serif;
+}
+
 .cards-area {
   border: dotted;
   display: grid;
@@ -40,6 +50,10 @@ body {
 
 .card {
   margin: 10px;
+}
+
+.card-title {
+  display: flex;
 }
 
 .card-upper-image {
@@ -62,7 +76,6 @@ body {
 .heart-icon:hover {
   transform: scale(1.5);
   transition: all 0.5s ease;
-
 }
 
 #card-1 .card-upper-image {
