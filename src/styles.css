@@ -34,7 +34,8 @@ body {
 
 .title {
   font-family: 'Lato', sans-serif;
-}
+  margin-left: 10px;
+  }
 
 .cards-area {
   font-family: 'Lato', sans-serif;
