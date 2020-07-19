@@ -13,7 +13,7 @@ header {
 body {
   margin: 0;
   padding: 0;
-  background-color: lightBlue;
+  background-color: white;
 }
 
 .header-left-content {
@@ -53,8 +53,15 @@ body {
 
 .heart-icon {
   display: flex;
+  margin-top: -40px;
+  margin-left: -5px;
   height: auto;
   width: 8%;
+}
+
+.heart-icon:hover {
+  transform: scale(1.5);
+  transition: all 0.5s ease;
 }
 
 #card-1 .card-upper-image {
