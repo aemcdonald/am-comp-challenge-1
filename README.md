@@ -1,10 +1,11 @@
 ---
+Static Comp Challenge
 ---
 ## Objective
 This project was designed to practice HTML and CSS during my third week of Module 1 at Turing School of Software and Design. I was given a comp to follow for the page layout but was free to choose colors, images and icons. The base layout is pictured below:
 
 Base Layout:
-![photo of static comp model](/README-images/Static-comp-image.png)
+![](/README-images/static-comp-challenge.png)
 
 ## Outcome
 
