@@ -1,7 +1,7 @@
 ---
 Static Comp Challenge
 ---
-by: Ashley McDonald
+by: Ashley McDonald                                                            
 GitHub: https://github.com/aemcdonald                                        
 GitHub Pages: https://aemcdonald.github.io/am-comp-challenge-1/
 
